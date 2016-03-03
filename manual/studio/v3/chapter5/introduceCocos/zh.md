@@ -13,7 +13,7 @@ Cocos项目整合了资源编辑、代码编辑，真机运行以及游戏打包
 
 ![image](res/image002.png)
 
-代码编辑：Cocos项目支持lua，js，C++三种语言，支持Visual Studio， XCode， CodeIDE进行游戏代码编写与调试，Visual Studio，XCode分别是Windows和Mac系统上最强的代码IDE，CodeIDE是由触控开发的专门针对于lua，js两种语言的代码编写与调试工具，大家可以根据喜好选择使用。
+代码编辑：Cocos项目支持lua，js，C++三种语言，支持Visual Studio和XCode进行游戏代码编写与调试，Visual Studio，XCode分别是Windows和Mac系统上最强的代码IDE。
 
 真机运行：在游戏开发过程中，Cocos支持运行项目在android，ios手机上，windows和Mac操作系统上以及浏览器上， 如下图：
 
